@@ -8,7 +8,7 @@
       <p><b>地址：上海市松江区，邮编201620</b></p>
     </td>
     <td width="25%">
-      <img src="/Amber.jpg" width="100%">      % 插入证件照代码
+      <img src="/Amber.jpg" width="100%">      
     </td>
   </tr>
 </table>
